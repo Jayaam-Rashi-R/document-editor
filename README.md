@@ -14,6 +14,8 @@ DESCRIPTION: EDITED IN VISUAL STUDIO CODE AND OUPUT EXECTUED IN CHROME
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/d8ce5822-83de-445e-ad03-13058e2c142a)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
